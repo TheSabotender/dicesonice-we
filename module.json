@@ -16,6 +16,6 @@
 		"wedice.js"
 	],
 	"url": "https://github.com/TheSabotender/dicesonice-we.git",
-	"manifest": "https://raw.githubusercontent.com/EndlesNights/ApertureScienceWCDice/main/module.json",
-	"download": "https://github.com/EndlesNights/ApertureScienceWCDice/raw/main/ApertureScienceWCDice.zip"
+	"manifest": "https://raw.githubusercontent.com/TheSabotender/dicesonice-we/main/module.json",
+	"download": "https://raw.githubusercontent.com/TheSabotender/dicesonice-we/main/wedice.zip"
 }

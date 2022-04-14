@@ -1,11 +1,11 @@
 {
-	"name": "wcube",
-	"title": "Dice So Nice - Weighted Companion Cube Dice Set",
-	"description": "Adds a set of 3D dice in the style of Aperture Science Weighted Companion Cube to Dice-So-Nice ",
-	"version": "1.0.4",
+	"name": "we-dice",
+	"title": "Dice So Nice - Westerdale Elite Dice Set",
+	"description": "Adds a set of 3D dice to Dice-So-Nice ",
+	"version": "1.0.0",
 	"minimumCoreVersion": "0.7.2",
 	"compatibleCoreVersion": "9",
-	"author": "EndlesNights",
+	"author": "Sabotender",
 	"dependencies": [
 		{
 			"type": "module",
@@ -13,9 +13,9 @@
 		}
 	],
 	"scripts": [
-		"wcube.js"
+		"wedice.js"
 	],
-	"url": "https://github.com/EndlesNights/ApertureScienceWCDice",
-	"manifest": "https://raw.githubusercontent.com/EndlesNights/ApertureScienceWCDice/main/module.json",
-	"download": "https://github.com/EndlesNights/ApertureScienceWCDice/raw/main/ApertureScienceWCDice.zip"
+	"url": "https://github.com/TheSabotender/dicesonice-we.git",
+	"manifest": "https://raw.githubusercontent.com/TheSabotender/dicesonice-we/main/module.json",
+	"download": "https://raw.githubusercontent.com/TheSabotender/dicesonice-we/main/wedice.zip"
 }
