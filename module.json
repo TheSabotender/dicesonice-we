@@ -1,0 +1,21 @@
+{
+	"name": "we-dice",
+	"title": "Dice So Nice - Westerdale Elite Dice Set",
+	"description": "Adds a set of 3D dice to Dice-So-Nice ",
+	"version": "1.0.0",
+	"minimumCoreVersion": "0.7.2",
+	"compatibleCoreVersion": "9",
+	"author": "Sabotender",
+	"dependencies": [
+		{
+			"type": "module",
+			"name": "dice-so-nice"
+		}
+	],
+	"scripts": [
+		"wedice.js"
+	],
+	"url": "https://github.com/TheSabotender/dicesonice-we.git",
+	"manifest": "https://raw.githubusercontent.com/EndlesNights/ApertureScienceWCDice/main/module.json",
+	"download": "https://github.com/EndlesNights/ApertureScienceWCDice/raw/main/ApertureScienceWCDice.zip"
+}
